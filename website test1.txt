@@ -1,0 +1,39 @@
+<html>
+<head>
+<titel> <h1> sonic company </h1> </titel>
+
+</head>
+<bady> 
+
+<table>
+<tr> 
+<th>32smart </th> 
+
+ <th>&nbsp&nbsp &nbsp&nbsp42smart</th>
+ 
+<th>&nbsp&nbsp&nbsp&nbsp50smart</th>&nbsp&nbsp 
+
+     </tr>
+      <tr>
+       <td> &nbsp $100</td>
+     <td> &nbsp&nbsp&nbsp&nbsp&nbsp $180</td>
+    <td> &nbsp&nbsp&nbsp&nbsp&nbsp $250</td>
+     </tr>
+      </table>
+
+      <p> TV &nbsp &nbsp&nbsp&nbsp &nbsp &nbsp&nbsp&nbsp RFE 
+    <br>
+   <br>
+  <br>
+   <br>
+     <br>
+
+     <ul>
+      <li>TV </li>
+       <li>REF </li>
+      </ul>
+
+
+
+</bady> 
+</html>
