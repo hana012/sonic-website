@@ -1,0 +1,17 @@
+body{background-color: #FFF8DC;
+;width: 100%
+;height: 100%;
+}
+	h1{color: darkblue;}
+	h1{font-family: "time new roman",times,serif;}
+	nav{background-color:#8B0000;
+		height: 50px
+		;width:500px }
+
+	.link {text-decoration-line: none;
+		font-size: 25px;
+		color: snow;
+		margin: 10px;
+	}
+	.link:hover {font-weight: bolder;
+		color: blue;}
